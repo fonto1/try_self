@@ -1,0 +1,29 @@
+
+.container{
+    display: flex;
+}
+
+
+
+li{
+    border: 1px solid green;
+    width: 150px;
+    height: 100px;
+    margin-top: 20px;
+    
+}
+
+ul {
+    
+    list-style: none;
+    text-align: center;
+    width: 200px;
+    height: 700px;
+    border: 1px solid orangered;
+    flex-wrap: nowrap;
+}
+
+span{
+    text-align: center;
+}
+
